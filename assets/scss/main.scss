@@ -1,6 +1,18 @@
-body {
-    background: #000;
-    section {
-        color: yellow; 
-    }
-}
+@import "./reset"; 
+@import "./colors"; 
+@import "./fonts"; 
+@import "./typography"; 
+
+@import "./structure";
+@import "./buttons";
+
+@import "./sidebar";
+
+@import "./home";
+@import "./about";
+@import "./resume";
+@import "./work";
+@import "./testimonial";
+@import "./contact";        
+
+@import "./responsive";
