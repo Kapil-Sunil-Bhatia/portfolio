@@ -13,8 +13,7 @@ Welcome to the repository for my personal portfolio website. This website showca
 
 
 ## Demo
-
-Include a link to the live demo of your portfolio website. This could be the GitHub Pages link or any other hosting platform you are using.
+https://github.com/Kapil-Sunil-Bhatia/portfolio
 
 ## Features
 - Meteor shower animation is included on this website.
