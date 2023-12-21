@@ -42,3 +42,5 @@ cd portfolio
 - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white): Used for writing and organizing the CSS code.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): Added dynamic and interactive features.
 
+## Customization
+- Feel free to customize the website by modifying the HTML, CSS, and JavaScript files. Update the content in the index.html file to reflect your own projects and information.
