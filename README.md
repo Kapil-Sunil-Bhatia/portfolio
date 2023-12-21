@@ -37,10 +37,7 @@ cd portfolio
 
 
 ## Technologies Used
-- ![HTML 5](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white): Structured the content of the website.
-- ![CSS 3](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white): Styled the HTML elements for a visually appealing design.
+- ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white): Structured the content of the website.
+- ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white): Styled the HTML elements for a visually appealing design.
 - ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white): Used for writing and organizing the CSS code.
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black): Added dynamic and interactive features.
-
-## Customization
-- Feel free to customize the website by modifying the HTML, CSS, and JavaScript files. Update the content in the index.html file to reflect your own projects and information.
