@@ -11,7 +11,7 @@ Welcome to the repository for my personal portfolio website. This website showca
 
 
 ## Demo
-🔗 https://github.com/Kapil-Sunil-Bhatia/portfolio 🔗
+🔗 https://kapil-sunil-bhatia.github.io/portfolio/ 🔗
 
 ## Features
 - Meteor shower animation is included on this website.
