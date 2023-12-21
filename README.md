@@ -7,9 +7,7 @@ Welcome to the repository for my personal portfolio website. This website showca
 - [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 
 
 ## Demo
@@ -36,4 +34,17 @@ cd portfolio
 
 # Open the index.html file in your browser 
 ```
-fffff
+
+
+## Technologies Used
+- HTML: Structured the content of the website.
+- CSS: Styled the HTML elements for a visually appealing design.
+- SCSS: Used for writing and organizing the CSS code.
+- JavaScript: Added dynamic and interactive features.
+
+  ### Technologies Used
+
+- **HTML:** ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- **CSS:** ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+- **JavaScript:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **SCSS:** ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
