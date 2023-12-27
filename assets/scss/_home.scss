@@ -1,10 +1,10 @@
 #home {
-    background-image: url('../images/bg-shape.png');
+    background-image: var(--bg-shape);
     background-repeat: no-repeat;
     background-position: 40vw -24px;
 
     .info {
-        padding-top: 81px;
+        padding-top: 281px;
 
         img.person-circle {
             margin-bottom: 24px;
@@ -40,7 +40,7 @@
         }
 
         .socials {
-            margin-top: 100px;
+            margin-top: 191px;
 
             ul {
                 display: flex;

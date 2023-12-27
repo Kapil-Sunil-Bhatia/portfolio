@@ -19,7 +19,7 @@ document.querySelector('#sidebar .toggle-sidebar').addEventListener('click', fun
 
 
 var options = {
-    strings: ['Front-End web developer', 'Back-End web developer', 'Web designer', 'Engineering Student'],
+    strings: ['Front-End web developer', 'Back-End web developer', 'Web designer'],
     loop: true,
     typeSpeed: 70,
     backSpeed: 10
@@ -122,3 +122,20 @@ contactFromItems.forEach((item) => {
         }
     })
 })
+
+
+
+
+
+function toggleMode() {
+    let theme = document.querySelector('html').getAttribute('theme');
+    if (theme == "dark") {
+        theme = "light";
+        new Audio('./assets/audio/light.wav').play()
+    } else {
+        theme = "dark";
+        new Audio('./assets/audio/dark.wav').play()
+    }
+
+    document.querySelector('html').setAttribute("theme", theme)
+}

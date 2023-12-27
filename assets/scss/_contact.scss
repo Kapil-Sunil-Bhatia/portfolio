@@ -1,5 +1,5 @@
 #contact_me {
-    background-image: url(../images/bg-shape.png);
+    background-image: var(--bg-shape);
     background-repeat: no-repeat;
     background-position: 53vw 574px;
     min-height: 100vh;
@@ -50,6 +50,7 @@
                     position: absolute;
                     top: 17px;
                     color: $secondary_gray;
+                    z-index: -1;  
                     transition:all 0.3s;
                 }
 
@@ -102,9 +103,9 @@
                         color: $gray;
                     }
 
-                    a {
-                        display: block;
-                        color: #fff;
+                    a { 
+                        display: block; 
+                        color: #fff;  
                         text-decoration: none;
                     }
                 }
