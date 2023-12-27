@@ -20,6 +20,7 @@ Welcome to the repository for my personal portfolio website. This website showca
 - View the portfolio and details of each portfolio in the portfolio section
 - Display customer feedback in the Testimonial section
 - Personal resume download link
+- Light mode included
 
 
 ## Installation
